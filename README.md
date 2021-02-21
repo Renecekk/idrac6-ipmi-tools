@@ -1,2 +1,3 @@
 # idrac6-ipmi-tools
-Ipmitool command tool for easy managing your noisy server 
+Setup script for creating shortcuts for easy manipulation with your noisy server written in Python3
+
